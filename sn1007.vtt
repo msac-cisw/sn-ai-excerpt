@@ -1,0 +1,1550 @@
+WEBVTT
+
+00:00.000 --> 00:01.120
+All right, Steve.
+
+00:01.120 --> 00:03.080
+I am dying here.
+
+00:03.080 --> 00:03.920
+Okay.
+
+00:03.920 --> 00:07.360
+What you think about all this AI's.
+
+00:07.360 --> 00:09.720
+So as I said at the top of the podcast
+
+00:09.720 --> 00:13.360
+and I will reiterate security now
+
+00:13.360 --> 00:15.800
+will not be evolving into AI today.
+
+00:15.800 --> 00:17.240
+No, we have shows for that.
+
+00:17.240 --> 00:18.440
+That's false.
+
+00:18.440 --> 00:20.560
+And that said aside from the fact
+
+00:20.560 --> 00:24.640
+that the recent truly astonishing advances in AI
+
+00:24.640 --> 00:27.320
+are going to directly impact everyone's lives
+
+00:27.320 --> 00:29.400
+outside of the security sphere.
+
+00:29.400 --> 00:32.080
+I'm also very certain that we're going to be seeing
+
+00:32.080 --> 00:34.920
+AI's impact upon the security
+
+00:34.920 --> 00:37.520
+of our software and operating systems.
+
+00:37.520 --> 00:40.800
+And we may not be needing to wait long.
+
+00:40.800 --> 00:42.760
+So over the course of the next few years,
+
+00:42.760 --> 00:45.760
+I'm sure that the topic of AI will be reemerging.
+
+00:45.760 --> 00:46.760
+And I'm not saying,
+
+00:46.760 --> 00:48.640
+I'm not saying I'm never going to talk about it again
+
+00:48.640 --> 00:53.440
+because it'll just be fun to talk about
+
+00:53.440 --> 00:57.360
+the major advances that I expect that we're going to be seeing.
+
+00:57.400 --> 00:59.840
+One, actually, I'll be talking about in a second
+
+00:59.840 --> 01:01.200
+only about a month away.
+
+01:01.200 --> 01:05.360
+So our listeners have been following my journey
+
+01:05.360 --> 01:06.960
+through this topic, you know,
+
+01:06.960 --> 01:09.080
+and it's not been a straight line.
+
+01:09.080 --> 01:11.160
+You know, more than anything else,
+
+01:11.160 --> 01:13.880
+I endeavor to be an honest researcher
+
+01:13.880 --> 01:16.720
+an honest researcher will readily revise
+
+01:16.720 --> 01:20.120
+their entire belief system as required
+
+01:20.120 --> 01:22.900
+when presented with new facts and information.
+
+01:23.800 --> 01:26.120
+You know, clutching to obsolete dogma
+
+01:26.160 --> 01:28.880
+simply because it's familiar and comfortable
+
+01:28.880 --> 01:30.800
+is not the way of science.
+
+01:30.800 --> 01:33.440
+And it was because I was puzzled and confused
+
+01:33.440 --> 01:36.000
+by what I was experiencing firsthand
+
+01:36.000 --> 01:38.520
+that I went searching for that information.
+
+01:38.520 --> 01:40.000
+I believe I found it.
+
+01:40.000 --> 01:42.080
+I believe I understand it,
+
+01:42.080 --> 01:43.560
+at least as much as it's possible
+
+01:43.560 --> 01:46.000
+without actually implementing it myself
+
+01:46.000 --> 01:47.080
+and I've got other work to do.
+
+01:47.080 --> 01:48.840
+So that's not going to happen.
+
+01:48.840 --> 01:51.760
+And I've been changed by what I learned.
+
+01:51.760 --> 01:54.320
+Three weeks ago, as I said,
+
+01:55.280 --> 01:57.760
+I might have something to say about this
+
+01:57.760 --> 01:59.800
+before we met again today.
+
+01:59.800 --> 02:01.840
+And that, and I said, if so,
+
+02:01.840 --> 02:05.800
+I would probably enjoy sharing that with this audience
+
+02:05.800 --> 02:08.400
+with a special email over the holidays.
+
+02:08.400 --> 02:11.760
+Now, the possibility of that happening
+
+02:11.760 --> 02:15.440
+induced more than 1,100 of our listeners
+
+02:15.440 --> 02:18.200
+who had not already signed up
+
+02:18.200 --> 02:21.600
+to the security now mailing to do so.
+
+02:21.600 --> 02:24.160
+So for that reason alone,
+
+02:24.160 --> 02:27.000
+you know, due to that declaration of interest,
+
+02:27.000 --> 02:29.320
+I felt I had to say something.
+
+02:29.320 --> 02:32.160
+Today, I have much more to say on the topic
+
+02:32.160 --> 02:33.960
+than I did nine days ago,
+
+02:33.960 --> 02:37.560
+last Monday, December 30th, when I sent that out.
+
+02:37.560 --> 02:42.480
+But let's start with what those 15,000 and 60 subscribers
+
+02:42.480 --> 02:44.840
+received from me last week,
+
+02:44.840 --> 02:46.680
+that I'll expand a bit on what I think
+
+02:46.680 --> 02:48.720
+are the most important points
+
+02:48.720 --> 02:50.960
+and what I've continued to learn since.
+
+02:50.960 --> 02:54.040
+So, what I wrote then was,
+
+02:54.040 --> 02:56.560
+when I first said about writing this email,
+
+02:56.560 --> 02:58.520
+my plan was to share what I had learned
+
+02:58.520 --> 03:01.040
+during the first half of our three week hiatus
+
+03:01.040 --> 03:02.600
+from the podcast.
+
+03:02.600 --> 03:06.160
+But it quickly grew long, even longer than this,
+
+03:06.160 --> 03:07.720
+because I've learned quite a lot
+
+03:07.720 --> 03:11.800
+during a lot about what's going on with AI.
+
+03:11.800 --> 03:13.800
+Since I suspect no one wants to read
+
+03:13.800 --> 03:15.920
+a podcast-linked piece of email,
+
+03:15.920 --> 03:17.560
+which I would largely need to repeat
+
+03:17.560 --> 03:20.400
+for the podcast anyway, which is what I'm doing now,
+
+03:20.400 --> 03:24.440
+I'm gonna distill this into an historical narrative
+
+03:24.440 --> 03:28.400
+to summarize a few key points and milestones.
+
+03:28.400 --> 03:32.280
+Then I'm gonna point everyone to a 22 minute YouTube video
+
+03:32.280 --> 03:35.480
+that should serve to raise everyone's eyebrows.
+
+03:35.480 --> 03:37.240
+So here it is.
+
+03:37.240 --> 03:42.240
+First, everything that's going on is about neural networks.
+
+03:42.920 --> 03:46.640
+This has become so obvious to those in the business
+
+03:46.640 --> 03:48.920
+that they no longer talk about it.
+
+03:48.920 --> 03:51.240
+It would be like making a point of saying
+
+03:51.240 --> 03:54.080
+that today's computers run on electricity.
+
+03:54.080 --> 03:55.560
+Duh.
+
+03:55.560 --> 04:00.560
+Okay, AI computation can be divided into pre-training
+
+04:00.840 --> 04:05.040
+and test time, also called inference time.
+
+04:05.040 --> 04:08.480
+Pre-training is the monumental task,
+
+04:08.480 --> 04:11.720
+and it is monumental, of putting information
+
+04:11.720 --> 04:16.720
+into a massive and initially untrained neural network.
+
+04:16.840 --> 04:20.440
+Information is put into the network
+
+04:20.440 --> 04:22.960
+by comparing the network's output
+
+04:22.960 --> 04:26.560
+against the expected or correct output,
+
+04:26.560 --> 04:30.920
+then back propagating tweaks to the neural networks
+
+04:30.920 --> 04:33.640
+vast quantity of parameters
+
+04:33.640 --> 04:36.440
+to move the network's latest output
+
+04:36.440 --> 04:39.960
+more toward the correct output.
+
+04:39.960 --> 04:43.440
+A modern neural network like GPT-3,
+
+04:43.440 --> 04:45.720
+which is already obsolete,
+
+04:45.720 --> 04:50.720
+had 175 billion parameters,
+
+04:52.560 --> 04:55.520
+interlinking its neurons,
+
+04:55.520 --> 04:58.480
+each of which requires tweaking.
+
+04:58.480 --> 05:01.520
+This is done over and over and over,
+
+05:01.520 --> 05:06.520
+many millions of times across a massive body
+
+05:07.320 --> 05:10.520
+of knowledge, which I have in quotes,
+
+05:10.520 --> 05:13.080
+to gradually train the network
+
+05:13.120 --> 05:17.360
+to generate the proper output for any input.
+
+05:18.560 --> 05:21.800
+Counterintuitive, though it may be,
+
+05:21.800 --> 05:25.880
+the result of this training is a neural network
+
+05:25.880 --> 05:28.960
+that actually contains the knowledge
+
+05:28.960 --> 05:31.480
+that was used to train it.
+
+05:31.480 --> 05:35.080
+It is a true knowledge representation.
+
+05:35.080 --> 05:37.400
+Now, if that's difficult to swallow,
+
+05:37.400 --> 05:41.240
+consider human DNA as an analogy.
+
+05:41.240 --> 05:44.520
+DNA contains all of the knowledge
+
+05:44.520 --> 05:47.480
+that's required to build a person.
+
+05:47.480 --> 05:51.960
+The fact that DNA is not itself intelligent or sentient
+
+05:51.960 --> 05:55.920
+doesn't mean that it's not jam-packed with knowledge.
+
+05:57.120 --> 06:02.120
+In fact, the advances that have most recently been made,
+
+06:02.120 --> 06:03.720
+which I'll get to in a bit,
+
+06:03.720 --> 06:07.320
+are dramatic improvements in the technology
+
+06:07.320 --> 06:10.840
+for extracting that stored knowledge
+
+06:10.880 --> 06:12.440
+from the network.
+
+06:12.440 --> 06:15.080
+That's why I titled today's podcast,
+
+06:15.080 --> 06:17.080
+AI training and inference.
+
+06:17.080 --> 06:19.560
+The inference is the second half.
+
+06:20.480 --> 06:24.640
+The implementation of neural networks is surprisingly simple,
+
+06:24.640 --> 06:29.240
+requiring only a lot of standard multiplication and addition
+
+06:29.240 --> 06:32.880
+pipelined with massive parallelism.
+
+06:32.880 --> 06:37.480
+This is exactly what GPUs were designed to do.
+
+06:37.480 --> 06:39.600
+They were originally designed to perform
+
+06:39.600 --> 06:44.480
+many simple three-decalculations needed for modern gaming.
+
+06:44.480 --> 06:47.280
+Then they were employed to solve hash problems
+
+06:47.280 --> 06:49.320
+to mine cryptocurrency.
+
+06:49.320 --> 06:53.560
+But now they lie at the heart of all neural network AI.
+
+06:54.760 --> 06:58.120
+Now, even when powered by massive arrays
+
+06:58.120 --> 07:02.280
+of the fastest GPUs rented from cloud providers,
+
+07:02.280 --> 07:07.280
+this pre-training approach has become prohibitively,
+
+07:07.920 --> 07:11.720
+well, it was becoming and is prohibitively expensive
+
+07:11.720 --> 07:13.720
+in time consuming.
+
+07:13.720 --> 07:17.520
+But seven years ago, in 2017,
+
+07:17.520 --> 07:21.080
+a team of eight Google AI researchers published
+
+07:21.080 --> 07:26.080
+a truly groundbreaking paper titled Attention Is All You Need.
+
+07:27.080 --> 07:29.680
+The title was inspired by the famous Beatles song,
+
+07:29.680 --> 07:31.280
+Love Is All You Need,
+
+07:31.280 --> 07:33.480
+and the paper introduced the technology
+
+07:33.480 --> 07:35.720
+they named Transformers.
+
+07:35.720 --> 07:38.200
+Actually, it was named that because one of the researchers
+
+07:38.200 --> 07:39.720
+liked the sound of the word.
+
+07:40.840 --> 07:44.160
+The best way to think of transformer technology
+
+07:44.160 --> 07:47.280
+is that it allows massive neural networks
+
+07:47.280 --> 07:52.280
+to be trained much more efficiently in parallel.
+
+07:52.440 --> 07:55.960
+This insightful paper also introduced the idea
+
+07:55.960 --> 07:58.520
+that not all of the training tokens
+
+07:58.520 --> 08:00.760
+that were being fed into the network,
+
+08:00.760 --> 08:03.400
+which is the long string of data being fed
+
+08:03.400 --> 08:06.640
+into a model during one training iteration.
+
+08:06.640 --> 08:09.960
+Not all of those tokens needed to be considered
+
+08:09.960 --> 08:14.320
+with equal strength because they were not all equally important.
+
+08:14.320 --> 08:17.440
+In other words, more attention could be given
+
+08:17.440 --> 08:19.160
+to some than others.
+
+08:19.160 --> 08:24.120
+These breakthroughs resulted in a massive overall improvement
+
+08:24.120 --> 08:29.120
+in training speed, which in turn allowed vastly larger
+
+08:29.320 --> 08:33.640
+networks to be created and trained in reasonable time.
+
+08:33.640 --> 08:37.440
+Basically, that paper allowed,
+
+08:37.440 --> 08:42.440
+it solved the problem that they were hitting five years ago,
+
+08:42.440 --> 08:45.480
+six and seven years ago, that it just,
+
+08:45.480 --> 08:47.400
+it training took too long.
+
+08:47.400 --> 08:49.640
+That limited the size of the networks
+
+08:49.640 --> 08:53.680
+so that limited the quality of the networks.
+
+08:53.680 --> 08:57.920
+What happened was it then thanks to this breakthrough,
+
+08:57.960 --> 09:01.040
+it became practical and possible
+
+09:01.040 --> 09:04.080
+to train much larger neural networks,
+
+09:04.080 --> 09:08.040
+which is what gave birth to today's LLMs,
+
+09:08.040 --> 09:09.720
+large language models.
+
+09:10.720 --> 09:15.720
+Now, the GPT in chat GPT stands for generative pre-trained
+
+09:18.080 --> 09:19.200
+transformer.
+
+09:19.200 --> 09:23.160
+Pre-trained is the training transformer is this technology.
+
+09:24.160 --> 09:27.440
+But over time, once again,
+
+09:27.480 --> 09:31.280
+researchers began running into new limitations.
+
+09:31.280 --> 09:33.760
+They wanted even bigger networks
+
+09:33.760 --> 09:37.920
+because bigger networks provided more accurate results.
+
+09:37.920 --> 09:42.400
+But the bigger the network, the slower and more time-consuming
+
+09:42.400 --> 09:45.840
+and thus costly was its training.
+
+09:45.840 --> 09:48.600
+It would have been theoretically possible
+
+09:48.600 --> 09:52.080
+to keep pushing that upward, but a better solution
+
+09:52.080 --> 09:56.680
+was discovered, post-training computation.
+
+09:58.080 --> 10:03.000
+Traditional training of massive LLMs was very expensive.
+
+10:03.000 --> 10:05.560
+The breakthrough transformer tech
+
+10:05.560 --> 10:09.200
+that made LLM scale neural networks feasible
+
+10:09.200 --> 10:10.480
+for the first time.
+
+10:10.480 --> 10:13.160
+Well, now that was being taken for granted.
+
+10:13.160 --> 10:17.480
+But at least the training was a one-time investment.
+
+10:17.480 --> 10:22.480
+After that, a query of the network could be made almost instantly
+
+10:22.480 --> 10:25.400
+and therefore for almost no money.
+
+10:25.400 --> 10:28.600
+But the trouble was that even with the largest practical
+
+10:28.600 --> 10:32.440
+networks, the results could be unreliable,
+
+10:32.440 --> 10:34.560
+known as hallucinations.
+
+10:34.560 --> 10:38.160
+Aside from just being annoying, any neural network
+
+10:38.160 --> 10:42.200
+that was going to hallucinate and just make stuff up
+
+10:42.200 --> 10:47.560
+could never be relied upon to build chains of inference,
+
+10:47.560 --> 10:51.800
+where its outputs could be used as new inputs
+
+10:51.800 --> 10:55.280
+to explore consequences when seeking solutions
+
+10:55.280 --> 10:57.040
+to problems.
+
+10:57.040 --> 11:01.640
+Being able to reliably feed back a network's output
+
+11:01.640 --> 11:06.840
+into its inputs would begin to look a lot like thinking
+
+11:06.840 --> 11:12.120
+and thus inference for true problem solving.
+
+11:12.120 --> 11:15.320
+Then a few years ago, researchers
+
+11:15.320 --> 11:19.480
+began to better appreciate what could be done.
+
+11:19.480 --> 11:24.560
+If a neural network's answer was not needed instantly,
+
+11:24.560 --> 11:29.480
+they began exploring what could be accomplished post-training
+
+11:29.480 --> 11:34.360
+if, when making a query, some time and computation
+
+11:34.360 --> 11:38.080
+and thus money could be spent working
+
+11:38.080 --> 11:40.640
+with the pre-trained network.
+
+11:40.640 --> 11:44.560
+This is known as test time computation
+
+11:44.560 --> 11:49.080
+and it's the key to the next level breakthrough.
+
+11:49.080 --> 11:53.680
+By making a great many queries of the pre-trained network
+
+11:53.680 --> 11:57.280
+and comparing multiple results, researchers
+
+11:57.280 --> 12:00.080
+discovered that the overall reliability could
+
+12:00.080 --> 12:04.440
+be improved so much that it would become possible
+
+12:04.440 --> 12:08.760
+to create reliable inference chains for true problem
+
+12:08.760 --> 12:09.960
+solving.
+
+12:09.960 --> 12:13.040
+Using the jargon of the industry, this
+
+12:13.040 --> 12:16.520
+is often called chains of thought,
+
+12:16.520 --> 12:21.720
+although I've still object of giving too much credit
+
+12:21.720 --> 12:29.360
+to imbuing these with too much human brain technology.
+
+12:29.360 --> 12:32.680
+So inference chains would allow the problem-solving
+
+12:32.680 --> 12:37.280
+behavior would allow for problem-solving behavior
+
+12:37.280 --> 12:40.000
+by extracting the stored knowledge that
+
+12:40.000 --> 12:42.520
+have been trained into these networks.
+
+12:42.520 --> 12:45.840
+And the pre-trained model could also
+
+12:45.840 --> 12:49.120
+be used for the correction of its own errors.
+
+12:49.120 --> 12:52.080
+Now, I should note that the reason
+
+12:52.080 --> 12:55.760
+asking the same question multiple times results
+
+12:55.760 --> 12:59.440
+in multiple different answers is that researchers also
+
+12:59.440 --> 13:02.400
+had long ago discovered with neural networks
+
+13:02.400 --> 13:06.080
+that introducing just a bit of random noise,
+
+13:06.080 --> 13:09.680
+which is called the temperature into neural networks,
+
+13:09.680 --> 13:12.520
+resulted in superior performance.
+
+13:12.520 --> 13:16.280
+And yes, if this all sounds suspiciously like Voodoo,
+
+13:16.280 --> 13:20.480
+you're not wrong, but it works anyway.
+
+13:20.480 --> 13:24.520
+Open AI's recently released O1 model,
+
+13:24.520 --> 13:27.600
+which I talked about at the very end of last year,
+
+13:27.600 --> 13:33.480
+is the first of these more expensive test-time inference
+
+13:33.480 --> 13:37.480
+chain AI's to be made widely available.
+
+13:37.480 --> 13:41.680
+It offers a truly astonishing improvement
+
+13:41.680 --> 13:45.480
+over the previous chat GPT-4O models
+
+13:45.480 --> 13:46.920
+that we were using.
+
+13:46.920 --> 13:50.760
+Since O1 is expensive for Open AI
+
+13:50.760 --> 13:55.160
+to offer on a per query basis, subscribers
+
+13:55.160 --> 13:58.560
+are limited to seven full queries per day.
+
+13:58.560 --> 14:03.280
+But the O1 mini model, which is faster and still much better,
+
+14:03.280 --> 14:06.720
+but not as good, can be used without limit.
+
+14:06.720 --> 14:08.960
+But wait, there's more.
+
+14:08.960 --> 14:13.560
+The big news is that during their celebration of the holidays,
+
+14:13.600 --> 14:18.720
+Open AI revealed that they have an O3 model
+
+14:18.720 --> 14:23.920
+that blows away their brand new O1 model.
+
+14:23.920 --> 14:27.240
+It's not yet available, but it's coming soon.
+
+14:27.240 --> 14:31.280
+What is available are the results of its benchmarks,
+
+14:31.280 --> 14:33.880
+and that's why I believe you need to make time
+
+14:33.880 --> 14:36.960
+to watch this YouTube video.
+
+14:36.960 --> 14:41.320
+I created a GRC shortcut with this episode number,
+
+14:41.320 --> 14:43.240
+which is 1,07.
+
+14:43.240 --> 14:48.640
+So GRC dot SC slash 1007,
+
+14:48.640 --> 14:53.880
+that will bounce you to a, I think it's 22 minute YouTube video
+
+14:53.880 --> 14:58.440
+talking about the benchmarks that have been the independent
+
+14:58.440 --> 15:02.400
+benchmarks that have been run against this O3 model.
+
+15:02.400 --> 15:05.280
+OK, so is it AGI?
+
+15:05.280 --> 15:09.480
+Open AI is saying not quite, but there's
+
+15:09.480 --> 15:12.400
+little question that they're closing in on it.
+
+15:12.400 --> 15:16.320
+As you'll see in that video, the performance of Open AI's
+
+15:16.320 --> 15:20.840
+latest O3 model, when pitted against independent evaluation
+
+15:20.840 --> 15:25.120
+benchmarks designed specifically to measure
+
+15:25.120 --> 15:29.200
+the general reasoning strength of AI's.
+
+15:29.200 --> 15:35.320
+When confronted by problems that were absolutely never
+
+15:35.320 --> 15:38.600
+part of the AI's training set,
+
+15:38.600 --> 15:45.680
+demonstrate reasoning abilities superior to most humans.
+
+15:45.680 --> 15:51.120
+You need to watch the video, GRC dot SC slash 1007.
+
+15:51.120 --> 15:54.840
+Even if it were AGI, even if it were AGI,
+
+15:54.840 --> 15:57.480
+and we're probably not far from that,
+
+15:57.480 --> 15:59.720
+people are saying it is, I don't care.
+
+15:59.720 --> 16:02.720
+But that doesn't mean it's taking over.
+
+16:02.720 --> 16:06.280
+The AGI designation has only meant to indicate
+
+16:06.280 --> 16:11.640
+that over a wide range of cognitive problem-solving tasks,
+
+16:11.640 --> 16:16.160
+an AI can outperform a knowledgeable person.
+
+16:16.160 --> 16:21.640
+Computers can already beat the best chess, go,
+
+16:21.640 --> 16:23.480
+and poker players.
+
+16:23.480 --> 16:28.240
+I think it's very clear that today's AI's are not far
+
+16:28.240 --> 16:32.920
+from being superior to humans at general problem-solving.
+
+16:32.920 --> 16:36.720
+That doesn't make them Frankenstein's monster to be feared.
+
+16:36.720 --> 16:43.040
+It only makes AI a new and exceedingly useful tool.
+
+16:43.040 --> 16:49.280
+Many years ago, I grabbed the domain clevermunkies.com,
+
+16:49.280 --> 16:51.480
+just because I thought it was fun.
+
+16:51.480 --> 16:55.440
+It occurs to me that it takes very clever monkeys,
+
+16:55.440 --> 17:01.520
+indeed, to create something even more clever than themselves.
+
+17:01.520 --> 17:03.480
+All the evidence I've seen indicates
+
+17:03.480 --> 17:08.000
+that we're on the cusp of doing just that.
+
+17:08.000 --> 17:10.760
+OK, so with that, with a little bit of editing
+
+17:10.760 --> 17:12.520
+to improve it, that's what our listeners
+
+17:12.520 --> 17:15.560
+received from me over the holidays.
+
+17:15.560 --> 17:21.120
+If you take nothing else away from this discussion of AI
+
+17:21.120 --> 17:26.360
+today, here is the one point I want to firmly
+
+17:26.360 --> 17:28.720
+plant into everyone's mind, because this
+
+17:28.720 --> 17:32.840
+is the sticking point that I see everywhere.
+
+17:32.840 --> 17:38.760
+Nothing that was true about this field of research yesterday
+
+17:38.760 --> 17:41.760
+will remain true tomorrow.
+
+17:41.760 --> 17:43.000
+Nothing.
+
+17:43.000 --> 17:47.800
+This entire field of AI research is the fastest moving target
+
+17:47.800 --> 17:54.040
+I have ever experienced in my nearly 70 years of life.
+
+17:54.040 --> 17:57.120
+There are a number of consequences to this fact.
+
+17:57.120 --> 18:03.000
+For one, no book about AI that was written a year ago
+
+18:03.000 --> 18:06.880
+or six months ago, or even last month will
+
+18:06.880 --> 18:11.760
+be useful up to date about what's happening today.
+
+18:11.760 --> 18:14.320
+Books written in the past can definitely
+
+18:14.320 --> 18:17.600
+be useful for describing the history of AI
+
+18:17.600 --> 18:20.480
+and as a snapshot of a point in time.
+
+18:20.480 --> 18:23.280
+But even their predictions will prove
+
+18:23.280 --> 18:25.760
+to have been wildly wrong.
+
+18:25.760 --> 18:29.760
+The guys at open AI who are working on this and ought
+
+18:29.760 --> 18:36.160
+to know believed two years ago that at least another decade,
+
+18:36.160 --> 18:40.880
+another 10 years, would be needed to achieve what they
+
+18:40.880 --> 18:44.960
+announced last month and are getting ready to unveil.
+
+18:44.960 --> 18:47.400
+They thought it would take 10 years.
+
+18:47.400 --> 18:49.800
+It took two.
+
+18:49.800 --> 18:52.640
+One of the factors in facilitating this astonishing
+
+18:52.640 --> 18:55.480
+speed of development is that it turned out
+
+18:55.480 --> 18:59.320
+that much of what was needed was scale.
+
+18:59.320 --> 19:04.040
+And a weird side effect of cloud-side computing
+
+19:04.040 --> 19:07.520
+is that it's massively scalable.
+
+19:07.520 --> 19:11.960
+If you can pay to rent it, you get to use it.
+
+19:11.960 --> 19:16.400
+So investor dollars were pumped into the training
+
+19:16.400 --> 19:20.360
+of ever more complex models, and they kept seeing
+
+19:20.360 --> 19:23.920
+surprising improvements in performance.
+
+19:23.920 --> 19:27.480
+Leo's original appraisal of large language models
+
+19:27.480 --> 19:31.800
+as fancy spelling correctors was an accurate and useful
+
+19:31.800 --> 19:37.280
+from the hip summary of open AI's chat GPT-3 model.
+
+19:37.280 --> 19:39.320
+That's their take on it, too.
+
+19:39.320 --> 19:43.840
+Chat GP3 produced grammatically correct language,
+
+19:43.840 --> 19:47.400
+but it only coincidentally and occasionally produced
+
+19:47.400 --> 19:49.880
+anything highly meaningful.
+
+19:49.880 --> 19:54.080
+If it was left to keep talking, it would soon get lost.
+
+19:54.080 --> 19:58.720
+And wander off course to produce grammatically correct
+
+19:58.720 --> 20:00.640
+nonsense.
+
+20:00.640 --> 20:04.640
+Even so, back then, highly creative people who
+
+20:04.640 --> 20:08.600
+operate on the cutting edge, like Mac Brake Weekly's Alex
+
+20:08.600 --> 20:12.920
+Lindsey, were using the chat GP3 model as a source
+
+20:12.920 --> 20:15.880
+of new ideas and inspiration.
+
+20:15.880 --> 20:20.120
+As I wrote this, I was reminded of how popular formal brainstorming
+
+20:20.120 --> 20:24.520
+once was, where sometimes random ideas were just tossed out
+
+20:24.520 --> 20:26.000
+without any filtering.
+
+20:26.000 --> 20:29.400
+And that was the, you know, that was the entire point
+
+20:29.400 --> 20:33.360
+to say something as a means of inspiring some new perspective.
+
+20:33.360 --> 20:37.480
+So even chat GP3 was useful for the nonsense
+
+20:37.480 --> 20:40.760
+that it sometimes produced.
+
+20:40.760 --> 20:45.600
+But as a consequence of everything I've learned over the past three weeks
+
+20:45.600 --> 20:49.160
+and of the events which have transpired since,
+
+20:49.160 --> 20:53.520
+our previous podcast title, Podcast 1,005,
+
+20:53.520 --> 20:56.400
+deal three weeks ago, the Wizard of Oz.
+
+20:56.400 --> 20:58.520
+How quickly it ages, huh?
+
+20:58.520 --> 21:02.040
+No longer seem, yes, no longer seems to fit.
+
+21:02.040 --> 21:04.640
+And I'm a bit embarrassed by what I wrote,
+
+21:04.640 --> 21:07.720
+because it no longer reflects reality.
+
+21:07.720 --> 21:10.320
+As I said earlier, an honest researcher
+
+21:10.320 --> 21:13.160
+may need to discard previous belief systems
+
+21:13.160 --> 21:16.080
+when confronted with new information and facts.
+
+21:16.080 --> 21:19.760
+Never has that been more true than it is here.
+
+21:19.760 --> 21:25.360
+I'm needing to continuously update my own internal model.
+
+21:25.360 --> 21:29.960
+There is an unfortunate downside emerging, however.
+
+21:29.960 --> 21:32.440
+Unfortunately, I suppose, but inevitable.
+
+21:32.440 --> 21:39.080
+With startling speed, AI has moved from a curio in the corner
+
+21:39.080 --> 21:44.360
+of university and corporate R&D labs into big business.
+
+21:44.360 --> 21:47.760
+That meant that the suits in their neckties
+
+21:47.760 --> 21:51.800
+with their non-disclosure agreements descended upon the labs
+
+21:51.800 --> 21:54.800
+of the once freely and fruitfully collaborating
+
+21:54.800 --> 21:57.720
+academia-oriented researchers
+
+21:57.720 --> 22:02.400
+and dropped the cone of silence over their ongoing work.
+
+22:02.400 --> 22:06.560
+In the Distinguished Lecture Series at the Paul Allen School,
+
+22:06.560 --> 22:10.400
+one of open AI's leading researchers, Gnome Brown,
+
+22:10.400 --> 22:12.080
+gave a lecture titled,
+
+22:12.080 --> 22:17.520
+Parables on the Power of Planning in AI from Poker to Diplomacy.
+
+22:17.520 --> 22:20.400
+I have a YouTube link to Gnome's excellent talk
+
+22:20.400 --> 22:22.240
+at the end of the show notes.
+
+22:22.240 --> 22:26.000
+During his lecture, you could so clearly see
+
+22:26.000 --> 22:30.720
+Gnome's unbridled enthusiasm and love of his subject
+
+22:30.720 --> 22:36.320
+and also his disappointment when he was forced to stop himself short
+
+22:36.320 --> 22:39.760
+to prevent sharing some detail of his work
+
+22:39.760 --> 22:45.920
+that was now deemed to be proprietary and no longer his to share.
+
+22:45.920 --> 22:49.600
+We only have Googles breakthrough transformer
+
+22:49.600 --> 22:53.920
+and attention technology, which was the sole enabler
+
+22:53.920 --> 22:59.200
+of the subsequent LLM revolution because seven years ago,
+
+22:59.200 --> 23:04.080
+back in 2017, when things were still moving somewhat slowly,
+
+23:04.080 --> 23:08.320
+Google AI researchers were freely publishing their work
+
+23:08.320 --> 23:12.240
+as the academic curiosity that it was at the time.
+
+23:12.240 --> 23:17.200
+They were working on improving Google's inter-language translation capabilities
+
+23:17.200 --> 23:20.160
+and this inspiration emerged unbidden
+
+23:20.160 --> 23:23.040
+from a chance meeting of eight Googlers
+
+23:23.040 --> 23:26.080
+from various parts of the organization.
+
+23:26.080 --> 23:30.880
+Would such a breakthrough be published in today's climate?
+
+23:30.880 --> 23:32.960
+Seems unlikely.
+
+23:32.960 --> 23:38.640
+And now, open AI is seeming less open than it once was.
+
+23:38.640 --> 23:42.960
+We know that chat GPT-3 used a neural network
+
+23:42.960 --> 23:51.600
+containing an astonishing 175 billion neuron interlinking parameters.
+
+23:51.600 --> 23:54.720
+But 10 digits of accuracy each.
+
+23:54.720 --> 23:58.880
+We know that because open AI freely told us.
+
+23:58.880 --> 24:04.160
+But we have no similar information about any of their succeeding models.
+
+24:04.160 --> 24:08.080
+The sizes of the various chat GPT-4 models,
+
+24:08.080 --> 24:13.120
+not to mention O1 and O3 have become closely held secrets
+
+24:13.120 --> 24:15.840
+as have details of their operation.
+
+24:15.840 --> 24:19.200
+This is something that Elon's been complaining about, right?
+
+24:19.200 --> 24:20.640
+Is why he's suing them.
+
+24:20.640 --> 24:26.560
+He said, fortunately, a massive amount of detail,
+
+24:26.560 --> 24:30.800
+all detail needing for recreating much of what we see today
+
+24:30.800 --> 24:36.080
+from the corporate side had previously been shared in the public domain.
+
+24:36.080 --> 24:41.120
+And research continues with new vigor and doubtless with new funding
+
+24:41.120 --> 24:42.960
+within academia.
+
+24:42.960 --> 24:47.520
+And remember that it wasn't so long ago that Apple was getting patterns
+
+24:47.520 --> 24:53.680
+on Andy Hertzfeld's clever, step-wise, circle-drawing algorithms for bitmaps.
+
+24:53.680 --> 24:58.240
+Very little of anything that's really useful remains secret forever.
+
+24:58.240 --> 25:03.760
+And it seems clear that before long, we're going to have AI everywhere.
+
+25:03.760 --> 25:07.920
+OK, now I would love to spend more time talking about the way neural networks function
+
+25:07.920 --> 25:12.160
+in detail because there's some very cool aspects of that too.
+
+25:12.160 --> 25:14.560
+But that's not the purpose of this podcast.
+
+25:14.560 --> 25:17.840
+And perhaps I'll find another opportunity for that in the future.
+
+25:17.840 --> 25:25.280
+There are absolutely already tons of videos on YouTube talking about all of this
+
+25:25.280 --> 25:26.720
+for anyone who's interested.
+
+25:26.720 --> 25:30.080
+And YouTube's recommendation engine appears to be quite excellent
+
+25:30.080 --> 25:34.960
+because as soon as I started digging around in there, I got a lot of great stuff.
+
+25:34.960 --> 25:36.000
+Yeah.
+
+25:36.000 --> 25:43.680
+I do need to point out a specific series of astonishingly well-conceived
+
+25:43.680 --> 25:47.040
+and produced instructional videos on this topic
+
+25:47.040 --> 25:49.360
+from a guy named Grant Sanderson.
+
+25:49.360 --> 25:50.640
+Oh, I've watched these.
+
+25:50.640 --> 25:52.000
+They are really good.
+
+25:52.000 --> 25:54.640
+This was how I got my education and stuff.
+
+25:54.640 --> 25:55.200
+Yes.
+
+25:55.200 --> 25:59.040
+Grant's website is three blue, one brown,
+
+25:59.040 --> 26:03.200
+numeral three blue numeral one brown dot com.
+
+26:03.200 --> 26:08.880
+And Grant's bio says these videos and the animation engine behind them
+
+26:08.880 --> 26:13.040
+began as side projects as I was wrapping up my time
+
+26:13.040 --> 26:16.320
+studying math and computer science at Stanford.
+
+26:16.320 --> 26:20.960
+After graduating, I worked for Khan Academy producing videos,
+
+26:20.960 --> 26:26.480
+articles, and exercises primarily focused on multivariate calculus.
+
+26:26.480 --> 26:32.720
+Since the end of 2016, my primary focus has been on three blue one brown
+
+26:32.720 --> 26:34.960
+and its associated projects.
+
+26:34.960 --> 26:38.720
+In those years, I've also had the pleasure of contributing
+
+26:38.720 --> 26:42.640
+to a number of different outlets for math exposition,
+
+26:42.640 --> 26:47.520
+including spending a semester lecturing for an MIT course on computational
+
+26:47.520 --> 26:51.680
+thinking, contributing in Netflix documentary about infinity,
+
+26:51.680 --> 26:56.080
+writing for Quanta, and collaborating with many other educational YouTube
+
+26:56.080 --> 26:57.280
+channels.
+
+26:57.280 --> 27:04.320
+I have to say his animated visualizations are astonishing.
+
+27:04.320 --> 27:07.920
+This is the one I found the most useful if you just
+
+27:07.920 --> 27:11.440
+want a quick introduction if you put it out in November.
+
+27:11.440 --> 27:15.520
+LLMs for beginners, very good, very, really well done.
+
+27:15.520 --> 27:16.880
+And knowledgeable.
+
+27:16.880 --> 27:18.080
+Yes.
+
+27:18.080 --> 27:19.600
+I have a link in the show notes.
+
+27:19.600 --> 27:25.680
+He did a series of eight, which is starts on neural networks and runs
+
+27:25.680 --> 27:28.400
+through all of this technology.
+
+27:28.400 --> 27:36.560
+Transformers, backpropagation, the whole breakthrough of attention
+
+27:36.560 --> 27:38.480
+and how that operates.
+
+27:38.480 --> 27:41.760
+Anyway, I recommend them without reservation to anyone who's interested in
+
+27:41.760 --> 27:45.920
+understanding more of the inner workings of the comparatively,
+
+27:45.920 --> 27:49.920
+and I love the word ancient technology of neural networks,
+
+27:49.920 --> 27:53.120
+because this stuff's been around forever.
+
+27:53.120 --> 27:58.000
+Now, what's interesting about this is that this old technology of
+
+27:58.000 --> 28:02.320
+neural networks has recently been given new life
+
+28:02.320 --> 28:08.480
+thanks solely to the scalability of cloud-based computing
+
+28:08.480 --> 28:12.320
+and the presence of GPUs which are able to perform
+
+28:12.320 --> 28:16.160
+massive amounts of simple computation operations.
+
+28:16.160 --> 28:20.560
+So long as we have sufficient power, it appears
+
+28:20.560 --> 28:24.000
+that processing power, and as we know, electrical power too,
+
+28:24.000 --> 28:29.360
+that the world is facing, I believe, a true breakthrough.
+
+28:29.360 --> 28:32.320
+Thanks to the scale of compute and training,
+
+28:32.320 --> 28:35.760
+we've been able to throw at the problem.
+
+28:35.760 --> 28:42.640
+However, what we have today works and is working,
+
+28:42.640 --> 28:46.640
+but it is incredibly inefficient.
+
+28:46.640 --> 28:51.520
+It works only due to the massive scale
+
+28:51.520 --> 28:56.480
+we've managed to throw at neural network technology,
+
+28:56.480 --> 29:00.800
+which is itself an extremely flexible,
+
+29:00.800 --> 29:03.760
+but inefficient technology.
+
+29:03.760 --> 29:08.400
+For example, it's possible to train a neural network
+
+29:08.400 --> 29:12.800
+that has just a handful of neurons to perform
+
+29:12.800 --> 29:16.480
+a simple binary adder function.
+
+29:16.480 --> 29:21.040
+But the same thing can be done far more efficiently
+
+29:21.040 --> 29:24.720
+with a couple of logical nand gates.
+
+29:24.720 --> 29:29.520
+The thing that makes the handful of neurons potentially more interesting
+
+29:29.520 --> 29:33.600
+is that the same network could be trained to perform
+
+29:33.600 --> 29:38.480
+other simple functions. But the fundamental problem remains
+
+29:38.480 --> 29:44.000
+that any simple function that a neural network could be trained to do
+
+29:44.000 --> 29:48.080
+could be reduced to a far more efficient
+
+29:48.080 --> 29:52.160
+couple of nand gates. So here's what I think
+
+29:52.160 --> 29:56.720
+will eventually emerge someday and I have no idea
+
+29:56.720 --> 30:02.080
+whatsoever when that might be. My hunch is
+
+30:02.080 --> 30:06.720
+that just as with the handful of neurons that can be trained to perform
+
+30:06.720 --> 30:12.080
+simple logic functions, we're going to eventually discover
+
+30:12.080 --> 30:17.840
+that there is a far simpler way to solve the same
+
+30:17.840 --> 30:23.120
+AI implementation problems much more efficiently
+
+30:23.120 --> 30:28.640
+than we're currently solving them by throwing massive scale
+
+30:28.640 --> 30:32.560
+of inefficient neural networks at the problem.
+
+30:32.560 --> 30:36.480
+I have no idea what that solution might be.
+
+30:36.480 --> 30:41.920
+But the intriguing thing here is that cognitive science researchers
+
+30:41.920 --> 30:46.400
+now have a crude sort of brain
+
+30:46.400 --> 30:51.520
+that does manage to store a useful amount of knowledge
+
+30:51.520 --> 30:56.640
+and is able to use that knowledge to solve novel problems.
+
+30:56.640 --> 31:00.560
+And I suspect before long to invent
+
+31:00.560 --> 31:06.320
+newly true things. I mean you know to truly invent new things.
+
+31:06.320 --> 31:09.840
+People are already beginning to ask
+
+31:09.840 --> 31:13.040
+looking at these networks exactly
+
+31:13.040 --> 31:16.480
+how it does this. Because
+
+31:16.480 --> 31:25.520
+believe it or not that remains a mystery.
+
